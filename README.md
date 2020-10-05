@@ -1,11 +1,11 @@
 # homework-3-password-generator
-Welcome to my random password generator. Password Generator
+Welcome to my random password generator.
 
-Click the generate button to begin and select a password length Password Length
+Click the generate button to begin and select a password length 
 
-Follow the prompts to select the kind of characters you want to use. Special Characters Number Characters Lowercase Characters Uppercase Characters
+Follow the prompts to select the kind of characters you want to use. 
 
-Your result will display in the text box on screen. Password
+Your result will display in the text box on screen. 
 
 Click the copy button to copy your new password to the clipboard.
 
